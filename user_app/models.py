@@ -5,7 +5,7 @@ from django.contrib.auth.models import BaseUserManager, AbstractBaseUser
 
 class UserManager(BaseUserManager):
     """
-    creating a manager for a custom user model
+    creating a manager for a custom user_app model
     https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#writing-a-manager-for-a-custom-user-model
     https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#a-full-example
     """
