@@ -99,3 +99,6 @@ Expect:
 }
 ```
 
+## Info
+
+The application is inspired by a tutorial from medium.com.
