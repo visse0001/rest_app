@@ -1,4 +1,4 @@
-# user app with JWT
+# User app with JWT and DRF
 
 ## Development setup
 Install Python 3.7.2
