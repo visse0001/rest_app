@@ -6,6 +6,9 @@ Install Python 3.7.2
 Create a virtual environment: <br/>
 `python3 -m venv venv`
 
+To activate a venv: <br/>
+`source venv/bin/activate`
+
 Install dependencies: <br/>
 `pip install -r requirements.txt`
 
